@@ -1,0 +1,17 @@
+{
+  "name": "glup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yu",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp-requirejs-optimize": "^0.3.0",
+    "gulp-uglify": "^1.5.1"
+  }
+}
